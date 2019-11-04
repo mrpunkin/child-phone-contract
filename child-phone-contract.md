@@ -1,11 +1,12 @@
 
 # A Child's Phone Contract
 
-## The four main rules
+## The five main rules
 
 - This phone is primarily for your safety. Be responsible for knowing how to call for help and when.
 - Keep your phone on you.
 - We will always know your password and will check the browser history and messages from time to time.
+- You will not delete any messages, browser history, app history, etc. without Mom or Dad's approval.
 - Always answer and/or return messages or phone calls from Mom and Dad.
 
 
