@@ -47,4 +47,4 @@
 ## Three strikes
 
 - We will operate a three strikes and out policy. Any breach of this agreement will result in a warning. After three warnings, the phone will be confiscated for 24 hours.
-- Recurring issues will result in more in-depth discipline and/or longer confiscation.
+- Recurring issues will result in additional discipline and/or longer confiscation.
